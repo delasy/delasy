@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Aaron 👋
 
-<!--
-**delasy/delasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CTO at an LA-based web development agency, leading a team of 50+.
 
-Here are some ideas to get you started:
+I've been building for the web for 13 years — entirely self-taught, started freelancing at 15. \
+My path: freelancer → senior dev → team lead → CTO.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I build
+- Production web applications
+- I spent 7 years building a programming language from scratch
+- Built a Figma-like platform for form building in one year
+- 35 projects led across the agency world
+
+### What I care about
+- Clean architecture and system design
+- AI and automation in real engineering workflows
+- Shipping things that work over things that look clever
