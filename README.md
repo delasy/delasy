@@ -1,17 +1,10 @@
-# Hey, I'm Aaron 👋
+# Aaron Delasy
 
-CTO at an LA-based web development agency, leading a team of 50+.
+I'm a tech lead and CTO with 13+ years of experience.
 
-I've been building for the web for 13 years — entirely self-taught, started freelancing at 15. \
-My path: freelancer → senior dev → team lead → CTO.
+## Projects
 
-### What I build
-- Production web applications
-- I spent 7 years building a programming language from scratch
-- Built a Figma-like platform for form building in one year
-- 35 projects led across the agency world
-
-### What I care about
-- Clean architecture and system design
-- AI and automation in real engineering workflows
-- Shipping things that work over things that look clever
+- [Aldena](https://aldena.ai) — Build and run your own AI workforce inside a visual, simulator-style interface.
+- [FigForm](https://figform.com) — No-code, drag-and-drop AI form builder for marketers and agencies.
+- [TheLang](https://github.com/thelang-io/the) — Performant, minimalistic programming language that runs and compiles on the cloud.
+- [RateLimit](https://github.com/delasy/ratelimit.org) — Client-side throttling API that prevents 429 errors within a configurable time window.
